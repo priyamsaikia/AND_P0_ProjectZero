@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Nanodegree Apps!</string>
+    <string name="app_one">Popular Movies</string>
+    <string name="app_two">Stock Hawk</string>
+    <string name="app_three">Build it Bigger</string>
+    <string name="app_four">Make your app Material</string>
+    <string name="app_five">Go Obiquitous</string>
+    <string name="app_six">Capstone</string>
+</resources>
